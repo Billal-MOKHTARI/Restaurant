@@ -1,0 +1,58 @@
+{
+  "panier": [
+    {
+      "idClient": 2,
+      "numCons": 1,
+      "nom": "Frites viande hachée",
+      "prix": 180,
+      "type": "plat",
+      "qte": 1,
+      "id": 1
+    },
+    {
+      "idClient": 2,
+      "numCons": 2,
+      "nom": "Pizza simple",
+      "prix": 250,
+      "type": "plat",
+      "qte": 2,
+      "id": 2
+    },
+    {
+      "idClient": 2,
+      "numCons": 3,
+      "nom": "Tacos M",
+      "prix": 450,
+      "type": "plat",
+      "qte": 1,
+      "id": 3
+    },
+    {
+      "idClient": 2,
+      "numCons": 5,
+      "nom": "Frites poulet",
+      "prix": 200,
+      "type": "plat",
+      "qte": 2,
+      "id": 4
+    },
+    {
+      "idClient": 2,
+      "numCons": 4,
+      "nom": "Frites salade",
+      "prix": 120,
+      "type": "plat",
+      "qte": 1,
+      "id": 5
+    },
+    {
+      "idClient": 2,
+      "numCons": 15,
+      "nom": "Boisson Coca Cola 50cl",
+      "prix": 80,
+      "type": "dessert",
+      "qte": 1,
+      "id": 6
+    }
+  ]
+}
