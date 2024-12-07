@@ -14,7 +14,8 @@ cd ../server/ && npm install
 ```bash
 json-server --watch restaurant/data/panier.json --port 8888
 nodemon restaurant/server/index.js
-npm run start restaurant/client
+cd restaurant/client
+npm run start
 ```
 ## Partie administrateur
 1 - Création d'un virtual host dont le dossier racine (root) est "restaurant\"
