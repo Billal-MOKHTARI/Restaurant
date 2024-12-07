@@ -1,6 +1,9 @@
 ## Environnement d'exécution : Windows/Linux
 
 ## installation des packages (node modules)
+```bash
+npm install json-server@0.17.3
+```
 ## Partie client
 
 cd restaurant\client\ && npm install
