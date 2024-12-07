@@ -5,10 +5,10 @@
 npm install json-server@0.17.3
 ```
 ## Partie client
-
-cd restaurant\client\ && npm install
-cd ..\server\ && npm install 
-
+```bash
+cd restaurant/client/ && npm install
+cd ../server/ && npm install 
+```
 ## Démarrage des serveurs; JSON, Node et React respectivement. 
 
 ```bash
